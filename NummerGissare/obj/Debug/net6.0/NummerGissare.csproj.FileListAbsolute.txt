@@ -1,0 +1,30 @@
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\bin\Debug\net6.0\NummerGissare.exe
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\bin\Debug\net6.0\NummerGissare.deps.json
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\bin\Debug\net6.0\NummerGissare.runtimeconfig.json
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\bin\Debug\net6.0\NummerGissare.dll
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\bin\Debug\net6.0\NummerGissare.pdb
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.csproj.AssemblyReference.cache
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.AssemblyInfoInputs.cache
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.AssemblyInfo.cs
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.csproj.CoreCompileInputs.cache
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.dll
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\refint\NummerGissare.dll
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.pdb
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\NummerGissare.genruntimeconfig.cache
+C:\Users\ollec\source\repos\NummerGissare\NummerGissare\obj\Debug\net6.0\ref\NummerGissare.dll
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\bin\Debug\net6.0\NummerGissare.exe
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\bin\Debug\net6.0\NummerGissare.deps.json
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\bin\Debug\net6.0\NummerGissare.runtimeconfig.json
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\bin\Debug\net6.0\NummerGissare.dll
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\bin\Debug\net6.0\NummerGissare.pdb
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.csproj.AssemblyReference.cache
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.AssemblyInfoInputs.cache
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.AssemblyInfo.cs
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.csproj.CoreCompileInputs.cache
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.dll
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\refint\NummerGissare.dll
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.pdb
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\NummerGissare.genruntimeconfig.cache
+C:\Users\ollec\source\repos\NummerGissare - Copy\NummerGissare\obj\Debug\net6.0\ref\NummerGissare.dll
